@@ -1,4 +1,4 @@
-# MCP-RS Template
+# Rust MCP Server Template (STDIO)
 
 This repository provides a simple example of a **Model Context Protocol (MCP)** server implemented in Rust. **This runs with STDIO.**
 
